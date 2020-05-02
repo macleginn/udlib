@@ -2,7 +2,7 @@
 
 UDLib.py is a small library that contains convenient data types for analysing 
 and manipulating Universal Dependencies trees. You may use it if the API
-provided by (pyconll)[https://github.com/pyconll/pyconll] is too much. The
+provided by [pyconll](https://github.com/pyconll/pyconll) is too much. The
 library exports three dataclasses (`UDNode`, `UDEdge`, and `UDTree`) and two
 helper methods (`conllu2graph`, `conllu2trees`).
 
